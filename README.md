@@ -7,3 +7,5 @@ DIAGRAMA DE CASOS DE USO
 ![Diagrama de casos de uso](https://github.com/VitorMoura-coder/PIM/blob/main/Casos%20de%20uso.png)
 
 
+DIAGRAMA DE FLUXO DE DADOS
+![Diagrama de fluxo de dados](https://github.com/VitorMoura-coder/PIM/blob/main/dfd.png)
