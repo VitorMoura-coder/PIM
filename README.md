@@ -8,4 +8,4 @@ DIAGRAMA DE CASOS DE USO
 
 
 Sequence Diagram
-![Diagrama de sequencia]https://github.com/VitorMoura-coder/PIM/blob/main/Sequence%20Diagram.git.png
+![Diagrama de sequencia](https://github.com/VitorMoura-coder/PIM/blob/main/Sequence%20Diagram.git.png)
