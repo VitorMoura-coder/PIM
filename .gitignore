@@ -1,0 +1,19 @@
+# Arquivos gerados por C (executáveis e objetos)
+*.exe
+*.o
+a.out
+*.out
+user_module
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+*$py.class
+# Ambientes virtuais
+venv/
+.venv/
+
+# Arquivos de IDEs e logs
+.vscode/
+.idea/
+*.log
