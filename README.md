@@ -54,7 +54,7 @@ O projeto segue um padrão técnico claro para separação de responsabilidades:
 3.  **Executar a Aplicação Principal (Python):**
     ```bash
     python3 src/python/main.py
-    ```
+    ``` 
 
 ## 👥 Autoria (Novembro / 2025)
 
