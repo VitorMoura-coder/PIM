@@ -1,4 +1,4 @@
-# Módulo principal do Sistema Acadêmico Colaborativo.
+# Módulo principal do Sistema Acadêmico Colaborativo. 
 # OBSERVAÇÃO: Trocar o diretório de acordo com o seu PC para ler os arquivos CSV.
 
 # import tkinter as tk, csv, os, hashlib, time
