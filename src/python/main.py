@@ -1,7 +1,4 @@
-# Módulo principal do Sistema Acadêmico Colaborativo. 
-# OBSERVAÇÃO: Trocar o diretório de acordo com o seu PC para ler os arquivos CSV.
-
-# import tkinter as tk, csv, os, hashlib, time
+import tkinter as tk, csv, os, hashlib, time
 from tkinter import ttk, messagebox, simpledialog
 
 # ==============================================================================
@@ -9,7 +6,7 @@ from tkinter import ttk, messagebox, simpledialog
 # ==============================================================================
 
 # Definição do diretório base para salvar os arquivos CSV (Ajuste este caminho se necessário)
-BASE = r"C:\Users\Vitor Moura\Desktop\PIM OFICIAL\output"
+BASE = r"DIRETORIO DO SEU COMPUTADOR"
 
 # Caminhos dos arquivos CSV (Banco de Dados)
 ARQ_USU=os.path.join(BASE,"usuarios.csv")     # Usuários do sistema (login, senha, tipo)
